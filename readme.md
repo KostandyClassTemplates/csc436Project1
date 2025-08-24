@@ -109,4 +109,55 @@ Build a single-page interactive personal profile or online resume using advanced
 
 ---
 
+
+## Assignment Issues
+
+### Issue 1: Semantic HTML Structure
+**Description:** Describe how you used semantic HTML5 tags to structure your page. Which tags did you use, and how do they improve accessibility and organization?
+**Your Answer:**
+
+---
+
+### Issue 2: Responsive CSS Layout
+**Description:** Explain how you implemented a responsive layout using Flexbox and/or CSS Grid. What media queries did you use? How does your site adapt to different screen sizes?
+**Your Answer:**
+
+---
+
+### Issue 3: CSS Animations & Transitions
+**Description:** What CSS transitions, animations, or transforms did you add? Where are they used, and how do they enhance the user experience?
+**Your Answer:**
+
+---
+
+### Issue 4: JavaScript Interactivity
+**Description:** List and describe the two interactive features you implemented with vanilla JavaScript. How do they work, and where can they be found in your site?
+**Your Answer:**
+
+---
+
+### Issue 5: Content Sections
+**Description:** What content sections did you include (About Me, Skills, Experience/Education, Projects, Contact)? Briefly describe the content in each section.
+**Your Answer:**
+
+---
+
+### Issue 6: Code Quality & Best Practices
+**Description:** How did you ensure your code is clean, well-commented, and free of console errors? Mention any best practices you followed.
+**Your Answer:**
+
+---
+
+### Issue 7: Git & Commit History
+**Description:** How did you use Git during development? Provide a link to your GitHub repository and describe your commit strategy.
+**Your Answer:**
+
+---
+
+### Issue 8: Deployment
+**Description:** Provide your deployed site URL. Describe any challenges you faced during deployment and how you resolved them.
+**Your Answer:**
+
+---
+
 Refer to this README and rubric throughout your project. Good luck!
